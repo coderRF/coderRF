@@ -18,7 +18,7 @@
   ">
     <h2 style="color:#00E5FF; margin-bottom:15px; font-weight:bold; font-size:28px;">💠 Web3 Architect | Smart Contract Engineer</h2>
     <p style="color:#d0faff; font-size:16px; font-weight:bold; line-height:1.7;">
-      I design and build <b>secure, scalable blockchain ecosystems</b> that power the decentralized future.  
+      <b>I design and build secure, scalable blockchain ecosystems</b> that power the decentralized future.<br>
       My expertise includes <b>custom smart contracts</b>, <b>NFT infrastructures</b>, <b>decentralized applications</b>, and full-featured <b>Web3 systems</b> implemented with clean, modern architecture.
     </p>
   </div>
@@ -43,22 +43,26 @@
 <td width="50%" style="vertical-align:top;">
 
 ### 💻 Smart Contract Engineering  
-- ⚡ ERC20 / ERC721 / ERC1155  
-- 🔹 Custom NFT Architecture  
-- 🛡 Treasury & Ownership Logic  
-- 💎 Secure, Gas Optimized Code  
-- 🚀 Mainnet/Testnet Deployment  
+<p style="font-weight:bold;">
+- ⚡ ERC20 / ERC721 / ERC1155<br>
+- 🔹 Custom NFT Architecture<br>
+- 🛡 Treasury & Ownership Logic<br>
+- 💎 Secure, Gas Optimized Code<br>
+- 🚀 Mainnet/Testnet Deployment
+</p>
 
 </td>
 
 <td width="50%" style="vertical-align:top;">
 
 ### 🌐 Web3 / DApp Development  
-- 💻 Ethers.js / Web3.js  
-- 🔗 Wallet Integration (MM, Trust, TP)  
-- 🏗 Web3 Minting Engines  
-- 🛠 Marketplace Logic  
-- 🌟 Full-stack Blockchain Apps  
+<p style="font-weight:bold;">
+- 💻 Ethers.js / Web3.js<br>
+- 🔗 Wallet Integration (MM, Trust, TP)<br>
+- 🏗 Web3 Minting Engines<br>
+- 🛠 Marketplace Logic<br>
+- 🌟 Full-stack Blockchain Apps
+</p>
 
 </td>
 </tr>
@@ -70,19 +74,23 @@
 
 # 📦 **Featured Projects**
 ### 💾 AIRACSS Ecosystem  
-- 🛸 NFT Marketplace  
-- 🌀 Genesis NFT Collection  
-- 🏗 Smart Contract Architecture  
-- ⚡ Web3 Minting Engine  
+<p style="font-weight:bold;">
+- 🛸 NFT Marketplace<br>
+- 🌀 Genesis NFT Collection<br>
+- 🏗 Smart Contract Architecture<br>
+- ⚡ Web3 Minting Engine
+</p>
 
 ### 🪙 Blockchain Deployments  
-- 🏦 Custom ERC20 Tokenomics  
-- 🔧 Metadata Engine  
-- 🎯 Utility-based NFT System  
+<p style="font-weight:bold;">
+- 🏦 Custom ERC20 Tokenomics<br>
+- 🔧 Metadata Engine<br>
+- 🎯 Utility-based NFT System
+</p>
 
 ---
 
-# 📊 **GitHub Analytics (Private repos included)**  
+# 📊 **GitHub Analytics (Private repos included)**
 <div align="center">
 
   <!-- Stats with private repos -->
