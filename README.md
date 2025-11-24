@@ -90,7 +90,7 @@
 
 ---
 
-# 📊 **GitHub Analytics (Private repos included)**
+# 📊 **GitHub Analytics**
 <div align="center">
 
   <!-- Stats with private repos -->
