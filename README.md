@@ -7,12 +7,12 @@
 
 <!-- PROFILE HEADER WITH ROUND LOGO -->
 <div align="center">
-  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" alt="Mirza Rafi Logo" width="120" style="border-radius: 50%; border: 2px solid #00E5FF; box-shadow: 0 0 20px rgba(0,229,255,0.5);" />
+  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" alt="Mirza Rafi Logo" width="120" style="border-radius: 50%; border: 2px solid #00E5FF; box-shadow: 0 0 20px rgba(0,229,255,0.5); object-fit: cover;" />
 </div>
 
 <br>
 
-<!-- GLASS PREMIUM ABOUT CARD (Enhanced & Bold Small Text) -->
+<!-- GLASS PREMIUM ABOUT CARD -->
 <div align="center">
   <div style="
     padding:30px; 
@@ -49,7 +49,10 @@
 <tr>
 <td width="50%" style="vertical-align:top;">
 
-### <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="20" style="border-radius: 50%; vertical-align:middle; margin-right:8px;" /> Smart Contract Engineering  
+### <div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="24" height="24" style="border-radius: 50%; object-fit: cover; margin-right: 8px;" />
+  <span>Smart Contract Engineering</span>
+</div>
 <p style="font-weight:bold;">
 - ERC20 / ERC721 / ERC1155<br>
 - Custom NFT Architecture<br>
@@ -62,7 +65,10 @@
 
 <td width="50%" style="vertical-align:top;">
 
-### <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="20" style="border-radius: 50%; vertical-align:middle; margin-right:8px;" /> Web3 / DApp Development  
+### <div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="24" height="24" style="border-radius: 50%; object-fit: cover; margin-right: 8px;" />
+  <span>Web3 / DApp Development</span>
+</div>
 <p style="font-weight:bold;">
 - Ethers.js / Web3.js<br>
 - Wallet Integration (MM, Trust, TP)<br>
@@ -80,7 +86,10 @@
 ---
 
 # **Featured Projects**
-### <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="20" style="border-radius: 50%; vertical-align:middle; margin-right:8px;" /> AIRACSS Ecosystem  
+### <div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="24" height="24" style="border-radius: 50%; object-fit: cover; margin-right: 8px;" />
+  <span>AIRACSS Ecosystem</span>
+</div>
 <p style="font-weight:bold;">
 - NFT Marketplace<br>
 - Genesis NFT Collection<br>
@@ -88,7 +97,10 @@
 - Web3 Minting Engine
 </p>
 
-### <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="20" style="border-radius: 50%; vertical-align:middle; margin-right:8px;" /> Blockchain Deployments  
+### <div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="24" height="24" style="border-radius: 50%; object-fit: cover; margin-right: 8px;" />
+  <span>Blockchain Deployments</span>
+</div>
 <p style="font-weight:bold;">
 - Custom ERC20 Tokenomics<br>
 - Metadata Engine<br>
@@ -113,8 +125,10 @@
 
   <br><br>
 
-  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="16" style="border-radius: 50%; vertical-align:middle; margin-right:6px;" />
-  <b>Private Repositories: 27</b>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="20" height="20" style="border-radius: 50%; object-fit: cover; margin-right: 8px;" />
+    <b>Private Repositories: 27</b>
+  </div>
 
 </div>
 
@@ -129,10 +143,12 @@
 
 # **Web3 Vision**
 <div align="center">
-  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="24" style="border-radius: 50%; vertical-align:middle; margin-right:10px;" />
-  <i style="font-size:18px; color:#00E5FF; font-weight:bold;">
-    "Web3 is not the future — it's the new reality we are building today."
-  </i>
+  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+    <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="28" height="28" style="border-radius: 50%; object-fit: cover; margin-right: 12px;" />
+    <i style="font-size:18px; color:#00E5FF; font-weight:bold;">
+      "Web3 is not the future — it's the new reality we are building today."
+    </i>
+  </div>
 </div>
 
 ---
@@ -148,5 +164,5 @@
 <br>
 
 <div align="center">
-  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" alt="Mirza Rafi Signature" width="80" style="border-radius: 50%; opacity:0.8;" />
+  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" alt="Mirza Rafi Signature" width="80" height="80" style="border-radius: 50%; object-fit: cover; opacity:0.8;" />
 </div>
