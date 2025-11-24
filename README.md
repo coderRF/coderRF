@@ -88,16 +88,10 @@
 <div align="center">
   <h3 style="color:#00E5FF; font-size:24px; font-weight:800;">CONNECT WITH ME</h3>
   <a href="https://contact-info-rafi.vercel.app/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://contact-info-rafi.vercel.app/">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:mirzarafihasan@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://contact-info-rafi.vercel.app/">
-    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
