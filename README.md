@@ -39,31 +39,23 @@
   <h3 style="color:#00E5FF; font-size:24px; font-weight:800;">CORE EXPERTISE</h3>
 </div>
 
-<a href="https://contact-info-rafi.vercel.app/" style="text-decoration: none;">
-  <div style="margin-bottom: 30px;">
-    <h4 style="font-weight:800; color:#00E5FF; font-size:20px;">SMART CONTRACT DEVELOPMENT</h4>
-    <p style="font-weight:800; font-size:17px;">
-    - ERC20/ERC721/ERC1155 STANDARDS<br>
-    - CUSTOM NFT ARCHITECTURES<br>  
-    - GAS OPTIMIZATION & SECURITY<br>
-    - DEFI PROTOCOLS & TOKENOMICS<br>
-    - MAINNET DEPLOYMENTS
-    </p>
-  </div>
-</a>
+### <span style="font-weight:800; color:#00E5FF;">SMART CONTRACT DEVELOPMENT</span>
+<p style="font-weight:800; font-size:17px;">
+- ERC20/ERC721/ERC1155 STANDARDS<br>
+- CUSTOM NFT ARCHITECTURES<br>  
+- GAS OPTIMIZATION & SECURITY<br>
+- DEFI PROTOCOLS & TOKENOMICS<br>
+- MAINNET DEPLOYMENTS
+</p>
 
-<a href="https://contact-info-rafi.vercel.app/" style="text-decoration: none;">
-  <div style="margin-bottom: 30px;">
-    <h4 style="font-weight:800; color:#00E5FF; font-size:20px;">WEB3 & DAPP DEVELOPMENT</h4>
-    <p style="font-weight:800; font-size:17px;">
-    - ETHERS.JS & WEB3.JS INTEGRATION<br>
-    - WALLET CONNECTIONS (METAMASK, ETC.)<br>
-    - SMART CONTRACT INTERACTIONS<br>
-    - FULL-STACK DAPPS<br>
-    - BLOCKCHAIN APIS
-    </p>
-  </div>
-</a>
+### <span style="font-weight:800; color:#00E5FF;">WEB3 & DAPP DEVELOPMENT</span>
+<p style="font-weight:800; font-size:17px;">
+- ETHERS.JS & WEB3.JS INTEGRATION<br>
+- WALLET CONNECTIONS (METAMASK, ETC.)<br>
+- SMART CONTRACT INTERACTIONS<br>
+- FULL-STACK DAPPS<br>
+- BLOCKCHAIN APIS
+</p>
 
 <br>
 
@@ -73,29 +65,21 @@
   <h3 style="color:#00E5FF; font-size:24px; font-weight:800;">FEATURED PROJECTS</h3>
 </div>
 
-<a href="https://contact-info-rafi.vercel.app/" style="text-decoration: none;">
-  <div style="margin-bottom: 30px;">
-    <h4 style="font-weight:800; color:#00E5FF; font-size:20px;">AIRACSS ECOSYSTEM</h4>
-    <p style="font-weight:800; font-size:17px;">
-    - NFT MARKETPLACE PLATFORM<br>
-    - GENESIS NFT COLLECTION<br>
-    - SMART CONTRACT SUITE<br>
-    - WEB3 MINTING INTERFACE
-    </p>
-  </div>
-</a>
+### <span style="font-weight:800; color:#00E5FF;">AIRACSS ECOSYSTEM</span>
+<p style="font-weight:800; font-size:17px;">
+- NFT MARKETPLACE PLATFORM<br>
+- GENESIS NFT COLLECTION<br>
+- SMART CONTRACT SUITE<br>
+- WEB3 MINTING INTERFACE
+</p>
 
-<a href="https://contact-info-rafi.vercel.app/" style="text-decoration: none;">
-  <div style="margin-bottom: 30px;">
-    <h4 style="font-weight:800; color:#00E5FF; font-size:20px;">BLOCKCHAIN SOLUTIONS</h4>
-    <p style="font-weight:800; font-size:17px;">
-    - CUSTOM TOKEN DEVELOPMENT<br>
-    - NFT METADATA SYSTEMS<br>
-    - DEFI PROTOCOL INTEGRATION<br>
-    - GAS-EFFICIENT CONTRACTS
-    </p>
-  </div>
-</a>
+### <span style="font-weight:800; color:#00E5FF;">BLOCKCHAIN SOLUTIONS</span>
+<p style="font-weight:800; font-size:17px;">
+- CUSTOM TOKEN DEVELOPMENT<br>
+- NFT METADATA SYSTEMS<br>
+- DEFI PROTOCOL INTEGRATION<br>
+- GAS-EFFICIENT CONTRACTS
+</p>
 
 <br>
 
