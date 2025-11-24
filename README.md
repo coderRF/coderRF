@@ -7,7 +7,7 @@
 
 <!-- PROFILE HEADER WITH ROUND LOGO -->
 <div align="center">
-  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" alt="Mirza Rafi Logo" width="120" style="border-radius: 50%; border: 2px solid #00E5FF; box-shadow: 0 0 20px rgba(0,229,255,0.5); object-fit: cover;" />
+  <div style="width: 120px; height: 120px; border-radius: 50%; border: 2px solid #00E5FF; box-shadow: 0 0 20px rgba(0,229,255,0.5); background: url('https://i.ibb.co/zH0cmJ4S/mirzalogo.png') center/cover no-repeat;"></div>
 </div>
 
 <br>
@@ -50,7 +50,7 @@
 <td width="50%" style="vertical-align:top;">
 
 ### <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="24" height="24" style="border-radius: 50%; object-fit: cover; margin-right: 8px;" />
+  <div style="width: 24px; height: 24px; border-radius: 50%; background: url('https://i.ibb.co/zH0cmJ4S/mirzalogo.png') center/cover no-repeat; margin-right: 8px;"></div>
   <span>Smart Contract Engineering</span>
 </div>
 <p style="font-weight:bold;">
@@ -66,7 +66,7 @@
 <td width="50%" style="vertical-align:top;">
 
 ### <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="24" height="24" style="border-radius: 50%; object-fit: cover; margin-right: 8px;" />
+  <div style="width: 24px; height: 24px; border-radius: 50%; background: url('https://i.ibb.co/zH0cmJ4S/mirzalogo.png') center/cover no-repeat; margin-right: 8px;"></div>
   <span>Web3 / DApp Development</span>
 </div>
 <p style="font-weight:bold;">
@@ -87,7 +87,7 @@
 
 # **Featured Projects**
 ### <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="24" height="24" style="border-radius: 50%; object-fit: cover; margin-right: 8px;" />
+  <div style="width: 24px; height: 24px; border-radius: 50%; background: url('https://i.ibb.co/zH0cmJ4S/mirzalogo.png') center/cover no-repeat; margin-right: 8px;"></div>
   <span>AIRACSS Ecosystem</span>
 </div>
 <p style="font-weight:bold;">
@@ -98,7 +98,7 @@
 </p>
 
 ### <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="24" height="24" style="border-radius: 50%; object-fit: cover; margin-right: 8px;" />
+  <div style="width: 24px; height: 24px; border-radius: 50%; background: url('https://i.ibb.co/zH0cmJ4S/mirzalogo.png') center/cover no-repeat; margin-right: 8px;"></div>
   <span>Blockchain Deployments</span>
 </div>
 <p style="font-weight:bold;">
@@ -126,7 +126,7 @@
   <br><br>
 
   <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="20" height="20" style="border-radius: 50%; object-fit: cover; margin-right: 8px;" />
+    <div style="width: 20px; height: 20px; border-radius: 50%; background: url('https://i.ibb.co/zH0cmJ4S/mirzalogo.png') center/cover no-repeat; margin-right: 8px;"></div>
     <b>Private Repositories: 27</b>
   </div>
 
@@ -144,7 +144,7 @@
 # **Web3 Vision**
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
-    <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" width="28" height="28" style="border-radius: 50%; object-fit: cover; margin-right: 12px;" />
+    <div style="width: 28px; height: 28px; border-radius: 50%; background: url('https://i.ibb.co/zH0cmJ4S/mirzalogo.png') center/cover no-repeat; margin-right: 12px;"></div>
     <i style="font-size:18px; color:#00E5FF; font-weight:bold;">
       "Web3 is not the future — it's the new reality we are building today."
     </i>
@@ -164,5 +164,5 @@
 <br>
 
 <div align="center">
-  <img src="https://i.ibb.co/zH0cmJ4S/mirzalogo.png" alt="Mirza Rafi Signature" width="80" height="80" style="border-radius: 50%; object-fit: cover; opacity:0.8;" />
+  <div style="width: 80px; height: 80px; border-radius: 50%; background: url('https://i.ibb.co/zH0cmJ4S/mirzalogo.png') center/cover no-repeat; opacity: 0.8;"></div>
 </div>
