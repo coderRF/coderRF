@@ -1,23 +1,23 @@
 <!-- TOP TYPING BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Mirza+Rafi;Blockchain+%7C+Web3+Developer;Smart+Contract+Engineer;Full+Stack+dApp+Builder;Solidity+Smart+Contract+Expert;Web3+Ecosystem+Architect;NFT+%2F+DeFi+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2600&pause=900&color=333333&center=true&vCenter=true&width=900&lines=Mirza+Rafi;Blockchain+%7C+Web3+Developer;Smart+Contract+Engineer;Full+Stack+dApp+Builder;Solidity+Smart+Contract+Expert;Web3+Ecosystem+Architect;NFT+%2F+DeFi+Developer" />
 </div>
 
 <br>
 
 <!-- PROFILE HEADER -->
 <div align="center">
-  <h2 style="color:#00E5FF; margin:10px 0; font-size:32px;">Web3 Architect | Smart Contract Engineer</h2>
+  <h2 style="color:#00E5FF; margin:10px 0; font-size:34px; font-weight:800;">WEB3 ARCHITECT | SMART CONTRACT ENGINEER</h2>
 </div>
 
 <br>
 
 <!-- ABOUT CARD -->
 <div align="center">
-  <div style="padding:25px; max-width:800px; border-radius:15px; background:rgba(0,229,255,0.1); border:1px solid #00E5FF;">
-    <p style="color:#ffffff; font-size:16px; line-height:1.6; font-weight:bold;">
-      <b>I DESIGN AND BUILD SECURE, SCALABLE BLOCKCHAIN ECOSYSTEMS THAT POWER THE DECENTRALIZED FUTURE.</b><br><br>
-      <b>MY EXPERTISE INCLUDES CUSTOM SMART CONTRACTS, NFT INFRASTRUCTURES, DECENTRALIZED APPLICATIONS, AND FULL-FEATURED WEB3 SYSTEMS.</b>
+  <div style="padding:25px; max-width:800px; border-radius:15px; background:rgba(0,229,255,0.1); border:2px solid #00E5FF;">
+    <p style="color:#ffffff; font-size:18px; line-height:1.6; font-weight:800;">
+      I DESIGN AND BUILD SECURE, SCALABLE BLOCKCHAIN ECOSYSTEMS THAT POWER THE DECENTRALIZED FUTURE.<br><br>
+      MY EXPERTISE INCLUDES CUSTOM SMART CONTRACTS, NFT INFRASTRUCTURES, DECENTRALIZED APPLICATIONS, AND FULL-FEATURED WEB3 SYSTEMS.
     </p>
   </div>
 </div>
@@ -26,8 +26,8 @@
 
 ---
 
-## 🛠 **TECHNICAL STACK**
 <div align="center">
+  <h3 style="color:#00E5FF; font-size:24px; font-weight:800;">TECHNICAL STACK</h3>
   <img src="https://skillicons.dev/icons?i=solidity,js,ts,nodejs,react,nextjs,html,css,tailwind,git,github,ipfs,vscode,ethereum" />
 </div>
 
@@ -35,55 +35,74 @@
 
 ---
 
-## 💼 **CORE EXPERTISE**
+<div align="center">
+  <h3 style="color:#00E5FF; font-size:24px; font-weight:800;">CORE EXPERTISE</h3>
+</div>
 
-### 🔷 **SMART CONTRACT DEVELOPMENT**
-<p style="font-weight:bold;">
-- <b>ERC20/ERC721/ERC1155 STANDARDS</b><br>
-- <b>CUSTOM NFT ARCHITECTURES</b><br>  
-- <b>GAS OPTIMIZATION & SECURITY</b><br>
-- <b>DEFI PROTOCOLS & TOKENOMICS</b><br>
-- <b>MAINNET DEPLOYMENTS</b>
-</p>
+<a href="https://contact-info-rafi.vercel.app/" style="text-decoration: none;">
+  <div style="margin-bottom: 30px;">
+    <h4 style="font-weight:800; color:#00E5FF; font-size:20px;">SMART CONTRACT DEVELOPMENT</h4>
+    <p style="font-weight:800; font-size:17px;">
+    - ERC20/ERC721/ERC1155 STANDARDS<br>
+    - CUSTOM NFT ARCHITECTURES<br>  
+    - GAS OPTIMIZATION & SECURITY<br>
+    - DEFI PROTOCOLS & TOKENOMICS<br>
+    - MAINNET DEPLOYMENTS
+    </p>
+  </div>
+</a>
 
-### 🔷 **WEB3 & DAPP DEVELOPMENT**
-<p style="font-weight:bold;">
-- <b>ETHERS.JS & WEB3.JS INTEGRATION</b><br>
-- <b>WALLET CONNECTIONS (METAMASK, ETC.)</b><br>
-- <b>SMART CONTRACT INTERACTIONS</b><br>
-- <b>FULL-STACK DAPPS</b><br>
-- <b>BLOCKCHAIN APIS</b>
-</p>
-
-<br>
-
----
-
-## 🚀 **FEATURED PROJECTS**
-
-### 🌟 **AIRACSS ECOSYSTEM**
-<p style="font-weight:bold;">
-- <b>NFT MARKETPLACE PLATFORM</b><br>
-- <b>GENESIS NFT COLLECTION</b><br>
-- <b>SMART CONTRACT SUITE</b><br>
-- <b>WEB3 MINTING INTERFACE</b>
-</p>
-
-### 🌟 **BLOCKCHAIN SOLUTIONS**
-<p style="font-weight:bold;">
-- <b>CUSTOM TOKEN DEVELOPMENT</b><br>
-- <b>NFT METADATA SYSTEMS</b><br>
-- <b>DEFI PROTOCOL INTEGRATION</b><br>
-- <b>GAS-EFFICIENT CONTRACTS</b>
-</p>
+<a href="https://contact-info-rafi.vercel.app/" style="text-decoration: none;">
+  <div style="margin-bottom: 30px;">
+    <h4 style="font-weight:800; color:#00E5FF; font-size:20px;">WEB3 & DAPP DEVELOPMENT</h4>
+    <p style="font-weight:800; font-size:17px;">
+    - ETHERS.JS & WEB3.JS INTEGRATION<br>
+    - WALLET CONNECTIONS (METAMASK, ETC.)<br>
+    - SMART CONTRACT INTERACTIONS<br>
+    - FULL-STACK DAPPS<br>
+    - BLOCKCHAIN APIS
+    </p>
+  </div>
+</a>
 
 <br>
 
 ---
-
-## 🌐 **CONNECT WITH ME**
 
 <div align="center">
+  <h3 style="color:#00E5FF; font-size:24px; font-weight:800;">FEATURED PROJECTS</h3>
+</div>
+
+<a href="https://contact-info-rafi.vercel.app/" style="text-decoration: none;">
+  <div style="margin-bottom: 30px;">
+    <h4 style="font-weight:800; color:#00E5FF; font-size:20px;">AIRACSS ECOSYSTEM</h4>
+    <p style="font-weight:800; font-size:17px;">
+    - NFT MARKETPLACE PLATFORM<br>
+    - GENESIS NFT COLLECTION<br>
+    - SMART CONTRACT SUITE<br>
+    - WEB3 MINTING INTERFACE
+    </p>
+  </div>
+</a>
+
+<a href="https://contact-info-rafi.vercel.app/" style="text-decoration: none;">
+  <div style="margin-bottom: 30px;">
+    <h4 style="font-weight:800; color:#00E5FF; font-size:20px;">BLOCKCHAIN SOLUTIONS</h4>
+    <p style="font-weight:800; font-size:17px;">
+    - CUSTOM TOKEN DEVELOPMENT<br>
+    - NFT METADATA SYSTEMS<br>
+    - DEFI PROTOCOL INTEGRATION<br>
+    - GAS-EFFICIENT CONTRACTS
+    </p>
+  </div>
+</a>
+
+<br>
+
+---
+
+<div align="center">
+  <h3 style="color:#00E5FF; font-size:24px; font-weight:800;">CONNECT WITH ME</h3>
   <a href="https://www.linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -103,9 +122,7 @@
 ---
 
 <div align="center">
-  
-  <p style="font-weight:bold; font-size:18px; color:#00E5FF;">
-    <b>"BUILDING THE DECENTRALIZED FUTURE, ONE BLOCK AT A TIME."</b>
+  <p style="font-weight:800; font-size:20px; color:#00E5FF;">
+    BUILDING THE DECENTRALIZED FUTURE, ONE BLOCK AT A TIME.
   </p>
-  
 </div>
