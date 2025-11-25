@@ -41,20 +41,12 @@
 
 ### <span style="font-weight:800; color:#00E5FF;">SMART CONTRACT DEVELOPMENT</span>
 <p style="font-weight:800; font-size:17px;">
-<strong>- ERC20/ERC721/ERC1155 STANDARDS</strong><br>
-<strong>- CUSTOM NFT ARCHITECTURES</strong><br>  
-<strong>- GAS OPTIMIZATION & SECURITY</strong><br>
-<strong>- DEFI PROTOCOLS & TOKENOMICS</strong><br>
-<strong>- MAINNET DEPLOYMENTS</strong>
+<strong>ERC20/ERC721/ERC1155 STANDARDS • CUSTOM NFT ARCHITECTURES • GAS OPTIMIZATION & SECURITY • DEFI PROTOCOLS & TOKENOMICS • MAINNET DEPLOYMENTS</strong>
 </p>
 
 ### <span style="font-weight:800; color:#00E5FF;">WEB3 & DAPP DEVELOPMENT</span>
 <p style="font-weight:800; font-size:17px;">
-<strong>- ETHERS.JS & WEB3.JS INTEGRATION</strong><br>
-<strong>- WALLET CONNECTIONS (METAMASK, ETC.)</strong><br>
-<strong>- SMART CONTRACT INTERACTIONS</strong><br>
-<strong>- FULL-STACK DAPPS</strong><br>
-<strong>- BLOCKCHAIN APIS</strong>
+<strong>ETHERS.JS & WEB3.JS INTEGRATION • WALLET CONNECTIONS (METAMASK, ETC.) • SMART CONTRACT INTERACTIONS • FULL-STACK DAPPS • BLOCKCHAIN APIS</strong>
 </p>
 
 <br>
@@ -67,18 +59,12 @@
 
 ### <span style="font-weight:800; color:#00E5FF;">AIRACSS ECOSYSTEM</span>
 <p style="font-weight:800; font-size:17px;">
-<strong>- NFT MARKETPLACE PLATFORM</strong><br>
-<strong>- GENESIS NFT COLLECTION</strong><br>
-<strong>- SMART CONTRACT SUITE</strong><br>
-<strong>- WEB3 MINTING INTERFACE</strong>
+<strong>NFT MARKETPLACE PLATFORM • GENESIS NFT COLLECTION • SMART CONTRACT SUITE • WEB3 MINTING INTERFACE</strong>
 </p>
 
 ### <span style="font-weight:800; color:#00E5FF;">BLOCKCHAIN SOLUTIONS</span>
 <p style="font-weight:800; font-size:17px;">
-<strong>- CUSTOM TOKEN DEVELOPMENT</strong><br>
-<strong>- NFT METADATA SYSTEMS</strong><br>
-<strong>- DEFI PROTOCOL INTEGRATION</strong><br>
-<strong>- GAS-EFFICIENT CONTRACTS</strong>
+<strong>CUSTOM TOKEN DEVELOPMENT • NFT METADATA SYSTEMS • DEFI PROTOCOL INTEGRATION • GAS-EFFICIENT CONTRACTS</strong>
 </p>
 
 <br>
@@ -89,7 +75,7 @@
   <h3 style="color:#00E5FF; font-size:24px; font-weight:800;">REPOSITORY OVERVIEW</h3>
   <div style="padding:20px; max-width:600px; border-radius:12px; background:rgba(0,229,255,0.08); border:1px solid #00E5FF;">
     <p style="color:#ffffff; font-size:16px; line-height:1.5; font-weight:700;">
-      🔒 <strong>27+ PRIVATE REPOSITORIES</strong><br>
+      🔒 <strong>30+ PRIVATE REPOSITORIES</strong><br>
       <span style="font-size:14px; color:#CCCCCC;">
         <strong>Including proprietary smart contracts, dApps, and client projects under NDA</strong>
       </span>
