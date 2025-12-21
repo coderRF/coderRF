@@ -75,7 +75,7 @@
   <h3 style="color:#00E5FF; font-size:24px; font-weight:800;">REPOSITORY OVERVIEW</h3>
   <div style="padding:20px; max-width:600px; border-radius:12px; background:rgba(0,229,255,0.08); border:1px solid #00E5FF;">
     <p style="color:#ffffff; font-size:16px; line-height:1.5; font-weight:700;">
-      🔒 <strong>30+ PRIVATE REPOSITORIES</strong><br>
+      🔒 <strong>35+ PRIVATE REPOSITORIES</strong><br>
       <span style="font-size:14px; color:#CCCCCC;">
         <strong>Including proprietary smart contracts, dApps, and client projects under NDA</strong>
       </span>
